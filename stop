@@ -1,0 +1,101 @@
+[33mcommit f53a689bcd9697a4b62495dd0143d005ae8eff62[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Wed Aug 26 12:06:40 2020 -0300
+
+    Add en passant
+
+[33mcommit 8f2bfed9bfbe2ae03355178b450f7e4df422ee1b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Wed Aug 26 11:03:12 2020 -0300
+
+    Add Castling
+
+[33mcommit 91c6b7199b74ab63cc607a51e942b8459c60411f[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Wed Aug 26 01:52:18 2020 -0300
+
+    Add Queen
+
+[33mcommit 795486d590d9ba96f51553754992628ddf66b97c[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Wed Aug 26 01:44:53 2020 -0300
+
+    Add Knight
+
+[33mcommit a65cb4149f580f5712587bc044a9500777d5cab4[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Wed Aug 26 00:29:47 2020 -0300
+
+    Add Bishop
+
+[33mcommit 7e3d45072a1d788e5fde6d5a8cc2748c7b5cfbfa[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Tue Aug 25 23:41:30 2020 -0300
+
+    Add Pawn
+
+[33mcommit 22112dd4ac65111cb63c102959a2a1735305993b[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Tue Aug 25 19:02:12 2020 -0300
+
+    Add checkmate
+
+[33mcommit e0a7f321917dc43620db35a43d7aa1d0e6b4e336[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Tue Aug 25 11:43:47 2020 -0300
+
+    Add list of captured pieces
+
+[33mcommit bb38c393a130330a62a23c7e1f9f4a64429ef11c[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Tue Aug 25 10:56:23 2020 -0300
+
+    Add switching player
+
+[33mcommit e1aea6520165e48d559c75cbf5b28366ee80800d[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Tue Aug 25 10:44:04 2020 -0300
+
+    Add possible moves of king
+
+[33mcommit e8c1472b8a095e53b49dedb053712077a0a590f5[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Tue Aug 25 01:18:09 2020 -0300
+
+    Add Color Background of the possible moves
+
+[33mcommit 6b4d08dcf3c656657d061cde08150735bd1911c0[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Tue Aug 25 01:02:24 2020 -0300
+
+    Fixed Rook
+
+[33mcommit 0602b0a732f3713c8a4c27877e4a87f87bb2a978[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Mon Aug 24 22:11:26 2020 -0300
+
+    Add possible moves of rook
+
+[33mcommit 60714c15ade6bd582ec4ce00dac5716cfdefc94e[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Mon Aug 24 20:29:27 2020 -0300
+
+    Add clear screen
+
+[33mcommit 8b2fb11ecfe455f757ecb7086ef997fdc14f6a8b[m
+Author: Duyllyan Almeida de Carvalho <68291852+duyllyan@users.noreply.github.com>
+Date:   Sun Aug 23 22:23:29 2020 -0300
+
+    Update README.md
+
+[33mcommit f0a4742323b85d6ec451f4ca74142163a1798cd1[m
+Author: Duyllyan Almeida <duyllyan@gmail.com>
+Date:   Sun Aug 23 22:22:24 2020 -0300
+
+    Project created
+
+[33mcommit 30a0cc27d9bd4cdc292b3a12378d9f7d7e9120d6[m
+Author: Duyllyan Almeida de Carvalho <68291852+duyllyan@users.noreply.github.com>
+Date:   Sun Aug 23 21:58:21 2020 -0300
+
+    Initial commit
